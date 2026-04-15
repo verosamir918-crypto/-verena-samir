@@ -5,9 +5,6 @@
 # 👋 Hi, I'm Verena Samir
 ### Junior Flutter Developer | Information Systems Student
 
-[**🌐 View Interactive Portfolio**](https://verosamir.github.io/portfolio) 
-*(اضغطي هنا عشان تشوفي الموقع كامل بالرسوم البيانية)*
-
 ---
 
 ### 🛠 My Tech Stack
