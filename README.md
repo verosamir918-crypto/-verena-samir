@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="banner.png" alt="Verena Samir Portfolio" width="100%">
 
 # 👋 Hi, I'm Verena Samir
 ### Junior Flutter Developer | Information Systems Student
